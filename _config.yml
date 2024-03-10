@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Bigeco's Devlog" # 상단 헤더에 보이는 블로그 명
+title: "Bigeco's DevLog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Bigeco" # 블로그 닉네임 설정
@@ -93,7 +93,7 @@ analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "your tracking id here"
+    tracking_id: "G-D9CLSVHK4S"
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -101,8 +101,8 @@ author:
   name: "Bigeco" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  location         : "Ansan, Korea"
+  email            : "lc26482648@gmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"
