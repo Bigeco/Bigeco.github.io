@@ -7,7 +7,7 @@ categories:
 tags:
   - [Philosophy, Definition]
 
-permalink: /philosophy/definition-philosophy/
+permalink: /Philosophy/definition-philosophy/
 
 toc: true
 toc_sticky: true
