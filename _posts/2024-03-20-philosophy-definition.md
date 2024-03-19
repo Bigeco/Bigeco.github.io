@@ -3,11 +3,11 @@ title: "철학적인 사고를 한다는 것은"
 excerpt: "철학은 '생각에 대한 생각'이다"
 
 categories:
-  - Philosophy
+  - philosophy
 tags:
   - [Philosophy, Definition]
 
-permalink: /Philosophy/definition-philosophy/
+permalink: /philosophy/definition-philosophy/
 
 toc: true
 toc_sticky: true
