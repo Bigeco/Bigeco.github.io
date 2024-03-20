@@ -7,7 +7,7 @@ main:
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/bigeco
+    url: https://github.com/Bigeco
 
   # - title: "Projects"
   #   url: /projects/
@@ -26,3 +26,5 @@ categories:
     url: /categories/categories3/
   - title: "Categories4"
     url: /categories/categories4/
+  - title: "Philosophy"
+    url: /categories/philosophy/
