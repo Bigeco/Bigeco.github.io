@@ -49,7 +49,7 @@ last_modified_at: 2024-03-20
 
 저자는 이렇게 말한다.
 
-![definition](/assets/images/post_img/philosophy/definition.png)
+![definition](/assets/images/posts_img/philosophy/definition.png)
 `책 영화로 읽는 서양 철학사 p24 그림 인용`
 
 > 철학은 **생각에 대한 생각**이다. 흔히 '비판적인 사유(생각)'라고 짧게 말하기도 한다. **생각**에 대해 다시 **생각** `비판적 사고, 즉 철학`함으로써 자신들의 오해를 발견할 수 있다. 그것이 철학적 사고이고, 또 그런 사고 활동이 정확히 **철학**이다.
@@ -82,7 +82,7 @@ Step | 예시
 
 그런데 사실은 생각해 보면 **생각에 대한 생각**이 처음 보는 이론이라고 생각했지만 **실생활에 자연스럽게 적용하고 있었다**. 나 같은 경우 python 언어에서 numpy array를 공부할 때 axis=0, 1, 2…. 이게 무엇을 의미하는지 정확히 알 필요가 있었다. 이거를 그림으로 그리거나 생각을 통해서 떠올리면 이해가 쉬웠는데 처음에는 이렇게 생각했다.  
 
-![numpy axis](/assets/images/post_img/philosophy/numpy_axis.png)
+![numpy axis](/assets/images/posts_img/philosophy/numpy_axis.png)
 `numpy array 에서 axis 를 생각한 방식의 변화`
 
 처음에는 `axis=0` 을 흔히 x 축으로 생각하고 `axis=1` 을 y 축으로 생각했다. 틀렸다고는 할 수 없지만 **이해에 있어서 어려운 방식**으로 그린 것은 맞다. 
@@ -97,7 +97,7 @@ a = np.array(a)
 
 예를 들어 다음과 같은 numpy 객체 a 가 있다고 해보자. 
 
-![numpy axis and matrix](/assets/images/post_img/philosophy/numpy_axis_matrix.png)
+![numpy axis and matrix](/assets/images/posts_img/philosophy/numpy_axis_matrix.png)
 
 numpy 객체 a의 axis 를 파악하기 위해서 기존 방식은 2차원 행렬을 90도로 회전해서 생각해야 했다. 그런데 이 방식은 행렬의 axis 를 떠올리는데 있어서 효율적이지 않다. 그래서 2차원 행렬 a 에 그대로 axis 를 적용하는 방식으로 바꿨다. 그렇게 되면 굳이 회전할 필요 없이 그대로 행렬을 두고 axis 를 생각하면 된다. 
 
