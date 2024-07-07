@@ -20,3 +20,4 @@ last_modified_at: 2024-07-08
 {: .notice--info}
 
 테스트
+글 테스트
