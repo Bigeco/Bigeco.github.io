@@ -7,7 +7,7 @@ categories:
 tags:
   - [Manim, MacOS]
 
-permalink: /Philosophy/install-manim-mac/
+permalink: /Manim/install-manim-mac/
 
 toc: true
 toc_sticky: true
