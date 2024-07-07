@@ -20,7 +20,5 @@ main:
 categories:
   - title: "Philosophy"
     url: /categories/philosophy/
-  - title: "Math"
-    children:
-      - title: "Manim"
-        url: /categories/manim/
+  - title: "Manim"
+    url: /categories/philosophy/
