@@ -49,7 +49,7 @@ Manim 이 무엇인지에 대해서 글로 설명하는 것보다는 영상으�
 
 ![embedding](/assets/images/posts_gif/manim/embedding.gif)
 
-다음은 3Blue1Brown 영상 - Attention in transformers, visually explained | Chapter 6, Deep Learning 중 임베딩을 표현하는 부분입니다. 위를 살펴보면 수학(e.g. 행렬 값)적 접근과 그래픽적 접근을 동시에 함으로써 접근 간의 간격을 줄이고 임베딩을 더욱 더 효과적으로 설명하고 있습니다. 
+다음은 3Blue1Brown 영상 - Attention in transformers, visually explained. Chapter 6, Deep Learning 중 임베딩을 표현하는 부분입니다. 위를 살펴보면 수학(e.g. 행렬 값)적 접근과 그래픽적 접근을 동시에 함으로써 접근 간의 간격을 줄이고 임베딩을 더욱 더 효과적으로 설명하고 있습니다. 
 
 이처럼 Manim은 복잡한 기술 개념을 지루하면서 직관적이지 못한 설명을 하는 것에서 벗어나 애니메이션화를 통해 재밌으면서도 직관적으로 설명하는 것을 가능하게 해줍니다.
 
